@@ -1,7 +1,7 @@
 # Fitz and Floyd/Maxwell & Williams
 
 ## About
-This is a past project for which I built the front end. The project involved developing the front end of the two affiliated sites Fitz & Floyd and Maxwell & Williams.  It was more than 6 years ago, the live site appears to have changed slightly since then. 
+This is a past e-commerce project for which I built the front end. The project involved developing the front end of the two affiliated sites Fitz & Floyd and Maxwell & Williams and integrate it with the shopping cart platform.  
 
 ## Tech Stack
 
@@ -23,7 +23,7 @@ This is a past project for which I built the front end. The project involved dev
   <img src="screenshots/fitz-shopping-cart.jpg" alt="" width="550" height="950">  
 </p> 
 <p>
-  <img src="screenshots/fitzcontact-us" alt="" width="550" height="843">  
+  <img src="screenshots/fitzcontact-us.jpg" alt="" width="550" height="843">  
 </p> 
 <p>
   <img src="screenshots/fitz-signin.jpg" alt="" width="550" height="666">  
@@ -33,4 +33,7 @@ This is a past project for which I built the front end. The project involved dev
 </p> 
 <p>
   <img src="screenshots/MaxwellWilliams-Collections.jpg" alt="" width="550" height="870">  
+</p> 
+<p>
+  <img src="screenshots/Max-iphone-portrait.jpg" alt="" width="550" height="1691">  
 </p> 
