@@ -1,29 +1,36 @@
 # Fitz and Floyd/Maxwell & Williams
 
 ## About
-This is a past project for which I built the front end. It was quite a few years ago. 
+This is a past project for which I built the front end. The project involved developing the front end of the two affiliated sites Fitz & Floyd and Maxwell & Williams.  It was more than 6 years ago, the live site appears to have changed slightly since then. 
 
 ## Tech Stack
 
-**Languages:** HTML, CSS, Javascript/jQuery 
-
+**Languages:** HTML, CSS, Javascript/jQuery   
+**Framework:** ASP.NET
 
 ## Live Link
 [https://www.fitzandfloyd.com/](https://www.fitzandfloyd.com/) 
 <p>
-  <img src="screenshots/celebrate.jpg" alt="" width="550" height="944">  
+  <img src="screenshots/Fitz-desktop-3.jpg" alt="" width="550" height="1248">  
 </p> 
 <p>
-  <img src="screenshots/celebrate.gif" alt="" width="550" height="309">  
-</p> 
-<br/>
-
-## Live Link
-[https://www.rcn.com/discoverrcn](https://www.rcn.com/discoverrcn) 
-<br/>
-<p>
-  <img src="screenshots/new-special-offers.jpg" alt="" width="550" height="2054">  
+  <img src="screenshots/Fitz-category.jpg" alt="" width="550" height="870">  
 </p> 
 <p>
-  <img src="screenshots/new-special-offers.gif" alt="" width="550" height="309">  
+  <img src="screenshots/fitz-product-detail.jpg" alt="" width="550" height="918">  
+</p> 
+<p>
+  <img src="screenshots/fitz-shopping-cart.jpg" alt="" width="550" height="950">  
+</p> 
+<p>
+  <img src="screenshots/fitzcontact-us" alt="" width="550" height="843">  
+</p> 
+<p>
+  <img src="screenshots/fitz-signin.jpg" alt="" width="550" height="666">  
+</p> 
+<p>
+  <img src="screenshots/max-landing.jpg" alt="" width="550" height="1013">  
+</p> 
+<p>
+  <img src="screenshots/MaxwellWilliams-Collections.jpg" alt="" width="550" height="870">  
 </p> 
