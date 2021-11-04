@@ -8,8 +8,7 @@ This is a past project for which I built the front end. The project involved dev
 **Languages:** HTML, CSS, Javascript/jQuery   
 **Framework:** ASP.NET
 
-## Live Link
-[https://www.fitzandfloyd.com/](https://www.fitzandfloyd.com/) 
+## Screenshots
 <p>
   <img src="screenshots/Fitz-desktop-3.jpg" alt="" width="550" height="1248">  
 </p> 
@@ -37,3 +36,6 @@ This is a past project for which I built the front end. The project involved dev
 <p>
   <img src="screenshots/Max-iphone-portrait.jpg" alt="" width="550" height="1691">  
 </p> 
+
+## Live Link
+[https://www.fitzandfloyd.com/](https://www.fitzandfloyd.com/) 
