@@ -35,7 +35,7 @@ This is a past project for which I built the front end. The project involved dev
   <img src="screenshots/fitzcontact-us.jpg" alt="" width="550" height="843">  
 </p> 
 
-### Account Signin Page
+### Account Sign In Page
 <p>
   <img src="screenshots/fitz-signin.jpg" alt="" width="550" height="666">  
 </p> 
