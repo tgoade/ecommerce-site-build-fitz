@@ -30,7 +30,7 @@ This is a past project for which I built the front end. The project involved dev
   <img src="screenshots/fitz-shopping-cart.jpg" alt="" width="550" height="950">  
 </p> 
 
-### Contact Page
+### Contact Us Page
 <p>
   <img src="screenshots/fitzcontact-us.jpg" alt="" width="550" height="843">  
 </p> 
