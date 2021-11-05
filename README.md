@@ -25,7 +25,7 @@ This is a past project for which I built the front end. The project involved dev
   <img src="screenshots/fitz-product-detail.jpg" alt="" width="550" height="918">  
 </p> 
 
-### Cart
+### Shopping Cart
 <p>
   <img src="screenshots/fitz-shopping-cart.jpg" alt="" width="550" height="950">  
 </p> 
