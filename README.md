@@ -54,7 +54,7 @@ I didn't keep the code then but have uploaded the final product screenshots to s
 
 ### Mobile View
 <p>
-  <img src="screenshots/Max-iphone-portrait.jpg" alt="" width="550" height="1691">  
+  <img src="screenshots/Max-iphone-portrait.jpg" alt="" width="300">  
 </p> 
 
 ## Site URLs
