@@ -1,9 +1,9 @@
 # Fitz and Floyd/Maxwell & Williams
 
 ## About
-This is a past project for which I built the front end based on design mockups. The project involved developing the front end of the two affiliated sites, Fitz & Floyd and Maxwell & Williams, and integrated them with the shopping cart platform.  
+This is a past project for which I built the front end based on design mockups. The project involved developing the front end of the (then) twin sites, Fitz & Floyd and Maxwell & Williams, and integrated them with the shopping cart platform.  
 
-I didn't keep the code but the screenshots hopefully demonstrates the scope of the work.
+I didn't keep the code but have uploaded the screenshots to show the scope of the work.
 
 ## Tech Stack
 
