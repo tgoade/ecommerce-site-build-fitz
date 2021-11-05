@@ -20,7 +20,7 @@ This is a past project for which I built the front end. The project involved dev
   <img src="screenshots/Fitz-category.jpg" alt="" width="550" height="870">  
 </p> 
 
-### Product Detail Page
+### Product Details Page
 <p>
   <img src="screenshots/fitz-product-detail.jpg" alt="" width="550" height="918">  
 </p> 
